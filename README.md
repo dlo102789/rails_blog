@@ -1,4 +1,4 @@
-# This private blog, built on Ruby on Rails, is for Yvette and I to document our travels.
+# This private blog, built on Ruby on Rails, is for my wife and I to document our travels.
 
 * Technologies used:
   * Ruby on Rails
